@@ -3,15 +3,15 @@
 Tools for Gui of React
 
 ```bash
-antd-tools run dist
-antd-tools run compile
-antd-tools run clean
-antd-tools run pub
-antd-tools run guard
-antd-tools run compile
-antd-tools run ts-lint
-antd-tools run ts-lint-fix
-antd-tools run deps-lint
-antd-tools run sort-api-table
-antd-tools run api-collection
+gui-tools run dist
+gui-tools run compile
+gui-tools run clean
+gui-tools run pub
+gui-tools run guard
+gui-tools run compile
+gui-tools run ts-lint
+gui-tools run ts-lint-fix
+gui-tools run deps-lint
+gui-tools run sort-api-table
+gui-tools run api-collection
 ```
