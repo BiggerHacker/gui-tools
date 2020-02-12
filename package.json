@@ -21,7 +21,7 @@
     "gui-tools-run": "./bin/gui-tools-run.js"
   },
   "scripts": {
-    "pub": "npm publish --access public",
+    "pub": "git push origin && npm publish --access public",
     "postinstall": "node lib/init.js",
     "lint": "eslint lib",
     "prettier": "node ./script/prettier.js",
